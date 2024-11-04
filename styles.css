@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0E0F19;
+}
+
+header {
+    background-color: #466060;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.metric {
+    background-color: #FFF;
+    border: 5px solid #466060;
+    padding: 20px;
+    margin: 20px;
+    color: #466060;
+}
+
+button {
+    background-color: #466060;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: #0E0F19;
+    color: #466060;
+}
